@@ -1,0 +1,9 @@
+{
+  "appId": "com.simtracker.records",
+  "appName": "دفتر تسجيل الخطوط",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
